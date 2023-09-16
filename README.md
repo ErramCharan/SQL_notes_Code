@@ -12,3 +12,6 @@ Second Normal Form (2 NF):
 Third Normal Form (3 NF):
 Avoid transitive dependencies.
 A database is considered third normal form if it meets the requirements of the first 3 normal forms.
+
+#set operators:
+EXCEPT and INTERSECT
