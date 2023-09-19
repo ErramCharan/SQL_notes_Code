@@ -15,3 +15,5 @@ A database is considered third normal form if it meets the requirements of the f
 
 #set operators:
 EXCEPT and INTERSECT
+EXCEPT:returns any distinct values from the query left of the EXCEPT operator that aren't also found on the right query
+INTERSECT:returns any distinct values that are returned by both the query on the left and right sides of the INTERSECT operator.
